@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Protect Human - Mi Proyecto Scratch</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f0f0f0;
+      text-align: center;
+      padding: 50px;
+    }
+    h1 {
+      color: #333;
+      margin-bottom: 30px;
+    }
+    .scratch-project {
+      display: inline-block;
+      border: 4px solid #4CAF50;
+      border-radius: 12px;
+      box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+    }
+  </style>
+</head>
+<body>
+  <h1>Protect Human</h1>
+
+  <div class="scratch-project">
+    <iframe src="https://scratch.mit.edu/projects/1213695253/embed" 
+            allowtransparency="true" 
+            width="600" 
+            height="450" 
+            frameborder="0" 
+            scrolling="no" 
+            allowfullscreen>
+    </iframe>
+  </div>
+</body>
+</html>
+
